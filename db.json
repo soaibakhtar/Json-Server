@@ -1,0 +1,64 @@
+{
+ "data" : [
+    {
+      "name": "John Doe",
+      "age": 30,
+      "email": "johndoe@example.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      },
+      "interests": ["reading", "traveling", "hiking"]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "email": "janesmith@example.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Anycity",
+        "state": "NY",
+        "zip": "54321"
+      },
+      "interests": ["painting", "cooking", "swimming"]
+    },
+    {
+      "name": "Bob Johnson",
+      "age": 40,
+      "email": "bjohnson@example.com",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Anytown",
+        "state": "TX",
+        "zip": "67890"
+      },
+      "interests": ["golfing", "fishing", "watching movies"]
+    },
+    {
+      "name": "Sarah Lee",
+      "age": 22,
+      "email": "sarahlee@example.com",
+      "address": {
+        "street": "321 Pine St",
+        "city": "Anycity",
+        "state": "FL",
+        "zip": "98765"
+      },
+      "interests": ["dancing", "reading", "playing video games"]
+    },
+    {
+      "name": "Mike Johnson",
+      "age": 35,
+      "email": "mjohnson@example.com",
+      "address": {
+        "street": "987 Maple St",
+        "city": "Anytown",
+        "state": "IL",
+        "zip": "45678"
+      },
+      "interests": ["running", "biking", "listening to music"]
+    }
+  ]  
+}
