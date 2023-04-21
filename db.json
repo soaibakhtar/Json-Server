@@ -82,75 +82,15 @@
     }
   ],
   "pets": [
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
-    },
-    {
-      "id": 2,
-      "name": "Apple",
-      "age": 3,
-      "place": "Hyderabad",
-      "gender": "Female"
-    },
-    {
-      "id": 3,
-      "name": "Banana",
-      "age": 1,
-      "place": "Chennai",
-      "gender": "Male"
-    },
-    {
-      "id": 4,
-      "name": "Grapes",
-      "age": 4,
-      "place": "Mumbai",
-      "gender": "Female"
-    },
-    {
-      "id": 5,
-      "name": "Pineapple",
-      "age": 5,
-      "place": "Delhi",
-      "gender": "Male"
-    },
-    {
-      "id": 6,
-      "name": "Orange",
-      "age": 2,
-      "place": "Kolkata",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "name": "Mango",
-      "age": 3,
-      "place": "Bangalore",
-      "gender": "Male"
-    },
-    {
-      "id": 8,
-      "name": "Pear",
-      "age": 1,
-      "place": "Pune",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "name": "Watermelon",
-      "age": 4,
-      "place": "Jaipur",
-      "gender": "Male"
-    },
-    {
-      "id": 10,
-      "name": "Kiwi",
-      "age": 5,
-      "place": "Lucknow",
-      "gender": "Female"
-    }
+    {"id" : 1, "bread": "Baguette", "age": "6", "gender": "female", "place": "Paris"},
+    {"id" : 2, "bread": "Sourdough", "age": "2", "gender": "male", "place": "San Francisco"},
+    {"id" : 3, "bread": "Ciabatta", "age": "3", "gender": "male", "place": "Florence"},
+    {"id" : 4, "bread": "Pumpernickel", "age": "5", "gender": "female", "place": "Berlin"},
+    {"id" : 5, "bread": "Focaccia", "age": "1", "gender": "male", "place": "Naples"},
+    {"id" : 6, "bread": "Rye", "age": "4", "gender": "female", "place": "Copenhagen"},
+    {"id" : 7, "bread": "Challah", "age": "2", "gender": "male", "place": "Jerusalem"},
+    {"id" : 8, "bread": "Brioche", "age": "6", "gender": "female", "place": "Lyon"},
+    {"id" : 9, "bread": "Naan", "age": "3", "gender": "male", "place": "Delhi"},
+    {"id" : 10, "bread": "Bagel", "age": "5", "gender": "female", "place": "New York"}
   ]
 }
