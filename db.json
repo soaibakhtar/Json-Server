@@ -1,5 +1,5 @@
 {
- "data" : [
+  "data": [
     {
       "name": "John Doe",
       "age": 30,
@@ -10,7 +10,11 @@
         "state": "CA",
         "zip": "12345"
       },
-      "interests": ["reading", "traveling", "hiking"]
+      "interests": [
+        "reading",
+        "traveling",
+        "hiking"
+      ]
     },
     {
       "name": "Jane Smith",
@@ -22,7 +26,11 @@
         "state": "NY",
         "zip": "54321"
       },
-      "interests": ["painting", "cooking", "swimming"]
+      "interests": [
+        "painting",
+        "cooking",
+        "swimming"
+      ]
     },
     {
       "name": "Bob Johnson",
@@ -34,7 +42,11 @@
         "state": "TX",
         "zip": "67890"
       },
-      "interests": ["golfing", "fishing", "watching movies"]
+      "interests": [
+        "golfing",
+        "fishing",
+        "watching movies"
+      ]
     },
     {
       "name": "Sarah Lee",
@@ -46,7 +58,11 @@
         "state": "FL",
         "zip": "98765"
       },
-      "interests": ["dancing", "reading", "playing video games"]
+      "interests": [
+        "dancing",
+        "reading",
+        "playing video games"
+      ]
     },
     {
       "name": "Mike Johnson",
@@ -58,10 +74,83 @@
         "state": "IL",
         "zip": "45678"
       },
-      "interests": ["running", "biking", "listening to music"]
+      "interests": [
+        "running",
+        "biking",
+        "listening to music"
+      ]
     }
-  ]  ,
-  "pets" : [
-    
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Apple",
+      "age": 3,
+      "place": "Hyderabad",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "age": 1,
+      "place": "Chennai",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Grapes",
+      "age": 4,
+      "place": "Mumbai",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "name": "Pineapple",
+      "age": 5,
+      "place": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Orange",
+      "age": 2,
+      "place": "Kolkata",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "name": "Mango",
+      "age": 3,
+      "place": "Bangalore",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Pear",
+      "age": 1,
+      "place": "Pune",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "name": "Watermelon",
+      "age": 4,
+      "place": "Jaipur",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Kiwi",
+      "age": 5,
+      "place": "Lucknow",
+      "gender": "Female"
+    }
   ]
 }
